@@ -7,7 +7,7 @@ training for class
 test test 
 
 
-(monkey) [images/monkey.jpg]
+[monkey] (images/monkey.jpg)
 
 Adding an update to my Readme.
 
